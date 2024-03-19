@@ -1,2 +1,2 @@
 # bocchi-the-rock-theme
-better discord
+this requires better discord 
