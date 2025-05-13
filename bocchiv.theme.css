@@ -20,7 +20,7 @@
   --success-color: #88FFC9;
   --danger-color: #FF2668;
   --url-color: var(--main-color);
-  --background-image: url('https://images3.alphacoders.com/129/1293612.jpg');
+  --background-image: url('https://imgur.com/a/4TSTWPn');
   --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
@@ -33,7 +33,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://images3.alphacoders.com/129/1293612.jpg');
+  --user-popout-image: url('https://imgur.com/a/4TSTWPn');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -44,7 +44,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 0px;
-  --user-modal-image: url('https://images3.alphacoders.com/129/1293612.jpg');
+  --user-modal-image: url('https://imgur.com/a/4TSTWPn');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
